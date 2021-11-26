@@ -1,4 +1,4 @@
-![I am Sudeb](https://i.ibb.co/dbtsfSf/undraw-Programming-re-kg9v.png)
+![I am Sudeb](https://i.ibb.co/mDYHwMC/undraw-Programming-re-kg9v.png)
 
 
 <h1 align="center">Hi 👋, I'm Sudeb Karmokar</h1>
