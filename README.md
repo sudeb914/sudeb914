@@ -1,15 +1,15 @@
-![I am Sudeb Karmokar](https://i.ibb.co/dbtsfSf/undraw-Programming-re-kg9v.png)
+![I am Sudeb](https://i.ibb.co/dbtsfSf/undraw-Programming-re-kg9v.png)
 
 
-<h1 align="center">Hi 👋, I'm HARUN UR ROSHID(Tutul)</h1>
-<h3 align="center">MERN Stack Web Developer and Web Designer of Hablu Programmer</h3>
+<h1 align="center">Hi 👋, I'm Sudeb Karmokar</h1>
+<h3 align="center">MERN Stack Web Developer</h3>
 
-![Profile views](https://gpvc.arturio.dev/sude914) 
+![Profile views](https://gpvc.arturio.dev/sudeb914) 
 
-Welcome to my GitHub profile. I am a MERN Stack Developer and Web Designer at Hablu Programmer Team. 
-Knock me: m.facebook.com/tutul.qcsc
+Welcome to my GitHub profile. I am a MERN Stack Developer. 
+Knock me: https://web.facebook.com/sudeb.karmokar.773
 
-Skills: PYTHON/ BOOTSTRAP/ NODE.JS / REACT / JS / HTML / CSS
+Skills:  BOOTSTRAP/ NODE.JS / REACT / Next Js / JS / HTML / CSS
  
 
 - 🔭 I’m currently working on [React JS](https://reactjs.org/)
